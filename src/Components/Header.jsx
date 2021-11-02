@@ -3,7 +3,6 @@ import "./Header.css";
 
 const Header = ({ data }) => {
   const [name, setName] = useState("");
-  const [occupation, setOccupation] = useState("");
   const [social, setSocial] = useState([]);
   const [profilepic, setProfilePic] = useState("");
   const [hashtag, setHashtag] = useState("");
@@ -12,7 +11,6 @@ const Header = ({ data }) => {
     if (data) {
       setName(data.name);
       setProfilePic("images/" + data.image);
-      setOccupation(data.occupation);
       setSocial(data.social);
       setHashtag(data.hashtag);
     }
