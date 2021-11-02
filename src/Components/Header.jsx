@@ -74,7 +74,7 @@ const Header = ({ data }) => {
           <h1 className="responsive-headline">Hi! I'm {name}.</h1>
           <h3>
             <span>
-              I'm a {occupation}
+              I'm a Mid Software Engineer.
             </span>
             <br/>
             <span>{hashtag}</span>
