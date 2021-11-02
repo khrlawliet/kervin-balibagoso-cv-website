@@ -1,0 +1,33 @@
+.category {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+.category h2 {
+    font-size: 20px;
+    color: black;
+}
+
+.category__proj {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;    
+}
+
+.basic__projects {
+    display: flex;
+}
+
+@media (max-width:900px) {
+    .category__proj { 
+    flex-direction: column;
+    }
+  }
+

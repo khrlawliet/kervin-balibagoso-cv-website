@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Kervin Balibagoso",
+    "occupation": "Mid Software Engineer",
+    "description": "Full Stack Developer.",
+    "hashtag" : "#KaiBalTech",
+    "image": "kervin.jpg",
+    "image2" : "kervin.png",
+    "bio": "My name is Kervin Rey H. Balibagoso,  I started my career in software development last January of 2017. Within that time I have gained domain knowledge as a FullStack Software Developer. After spending a lot of time in the Agile environment, I have a strong understanding of the Software Development andTesting Lifecycle and have become proficient with testing frameworks, automation tools and agile practices. Currently, I am working as Lead Backend Developer within my team. My main responsibilities are to mentor, develop and build API that is running on cloud server. For that purpose I am deploying project thru Microservice Architechture, utlizing Docker technology. I also built software following Software Development Lifecycle. im also being familiar with Test-Driven Development approach and CI/CD concept for deploying software. In specific i'm proficient in using Java Spring Boot frameworkand React.js Library on developing Web Application. I'm always passionate about improvement and always in search for a new challenge that will take my career to the next level, with a competitive company and a focused career-growth environment.  ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "kervinbalibagoso@gmail.com",
+    "phone": "+63 910 896 0916",
+    "address": {
+      "street": "Phase-3B, Blk 23, Lot 2, Doña Soledad, Brgy. Labangal",
+      "city": "General Santos City",
+      "country" : "Philippines",
+      "state": "Soccsksargen",
+      "zip": "9500"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "kervinbalibagoso-resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/KhRLawliet/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kervin-rey-balibagoso-074463199/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/khrbalibagoso/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/khrlawliet",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Utilize Technology",
+    "education": [
+      {
+        "school": "Holy Trinity College of General Santos City",
+        "degree": "Bachelor of Science in Information Technology",
+        "graduated": "April 2013",
+        "description": "Attended multiple programming contests"
+      }
+    ],
+    "work": [
+      {
+        "company": "Telcom Live Content, Inc",
+        "title": "Web Backend Developer (Part-time Job)",
+        "years": "March 2021 - Present",
+        "description": "Backend Developer. Develop API for a Government Service Website(DICT)"
+      },
+      {
+        "company": "Information System Experts",
+        "title": "Web Software Developer",
+        "years": "September 2020 - October 2021",
+        "description": "Full Stack Web Developer. Develop features on existing E-commerce Website."
+      },
+      {
+        "company": "Soft Artifact Incorporated",
+        "title": "Software Developer",
+        "years": "January 2017 - June 2020",
+        "description": " Develop Desktop Application Software for Employee Attendance Monitoring, Employee Performance and Payroll System."
+      },
+      {
+        "company": "LGU DSWD Kalahi CIDSS Program ",
+        "title": "Database Encoder",
+        "years": "January 2015 – January 2016",
+        "description": "Computer Technical Assistance, Data Encoding"
+      },
+      {
+        "company": "Softwarespeedy.com ",
+        "title": "Computer Technical Support",
+        "years": "August 2013 – January 2015",
+        "description": "Online Technical Support thru chat, call and computer remote access on US based client"
+      }
+    ]
+   
+  },
+ 
+  "testimonials": {
+    "testimonials": [
+    
+      {
+        "text": "I am always passionate about improvement. Coding has been my expression of creativity, for me efficient and well-written code is a masterpiece.",
+        "id" : "1"
+      },
+      {
+        "text": "Career Philosophy:",
+        "id" : "2"
+      },
+      {
+        "text": "Seeking advice doesnt reveal incompetence. It reflects respect for another person's insight. Requesting feedback doesn't signal insecurity. It demonstrates that you care more about your learning than your ego. Asking for help doesn't display weakness. It builds strenght. -Adam Grant",
+        "id" : "3"
+      }
+    ]
+  }
+}

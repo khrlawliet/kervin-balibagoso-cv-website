@@ -1,0 +1,68 @@
+.employeeDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.employeeDetails h1 {
+    color: black
+}
+
+.employeeDetails__tasks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.taskmodal__content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+  }
+
+  .taskmodal__body {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      
+  }
+
+  .taskmodal__body div {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+  }
+
+  .taskmodal__body input {
+      height: 40px;
+      padding: 10px;
+  }
+
+   .btn__container button{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .employeeDetails__header {
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .employeeDetails__header button {
+      height: 30px;
+  }
+

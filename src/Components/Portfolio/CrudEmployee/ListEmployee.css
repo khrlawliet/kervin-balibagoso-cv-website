@@ -1,0 +1,33 @@
+.listEmployee {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.listEmployee__content {
+    width: 100%;
+}
+
+.listEmployee div:not(:last-child) {
+    margin-top: 10px;
+}
+
+.listEmployee  h1 {
+    color:black;
+}
+
+.listEmployee__search {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+}
+
+.btnAdd {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+

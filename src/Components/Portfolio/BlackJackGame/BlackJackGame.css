@@ -1,0 +1,80 @@
+.blackJack {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blackjack__body {
+    display: flex;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.blackjack__body > div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 10px;
+    border: 1px solid black;
+    width: 100%;
+    max-width: 50%;
+    height: 500px;
+    
+}
+
+.blackjack__btn > button {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.blackjack__card {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.blackjack__card img {
+    margin: 10px;
+    border : 1px solid black;
+}
+
+
+@media(max-width:900px) {
+    .blackjack__body  {
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+     margin: 2px;
+    }
+
+    .blackjack__body > div {
+        max-width: 100%;
+       }
+
+       #your-box img {
+        margin: 10px;
+        width: 70px;
+        height: 70px;
+       }
+
+       #dealer-box img{
+        margin: 10px;
+        width: 70px;
+        height: 70px;
+       }
+       .blackjack__body > div {
+ 
+        height: 400px;
+        
+    }
+
+    
+}
+
+
+
+

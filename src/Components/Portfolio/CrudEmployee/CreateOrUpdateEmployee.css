@@ -1,0 +1,51 @@
+.updateEmployee {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.updateEmployee__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    padding: 10px;
+    width: 100%;
+}
+
+.updateEmployee__card div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 100%;
+}
+
+.updateEmployee__card input {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+}
+
+.updateEmployee__card textarea {
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+}
+
+
+.updateEmployee h2 {
+    color: black;
+    padding: 10px;
+}
+
+.updateEmployee__card .btn__container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-items: left;
+    align-content: flex-end;
+    width: 30%;
+    margin-left: auto;
+}
