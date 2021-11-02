@@ -6,7 +6,7 @@
     "hashtag" : "#KaiBalTech",
     "image": "kervin.jpg",
     "image2" : "kervin.png",
-    "bio": "My name is Kervin Rey H. Balibagoso,  I started my career in software development last January of 2017. Within that time I have gained domain knowledge as a FullStack Software Developer. After spending a lot of time in the Agile environment, I have a strong understanding of the Software Development andTesting Lifecycle and have become proficient with testing frameworks, automation tools and agile practices. Currently, I am working as Lead Backend Developer within my team. My main responsibilities are to mentor, develop and build API that is running on cloud server. For that purpose I am deploying project thru Microservice Architechture, utlizing Docker technology. I also built software following Software Development Lifecycle. im also being familiar with Test-Driven Development approach and CI/CD concept for deploying software. In specific i'm proficient in using Java Spring Boot frameworkand React.js Library on developing Web Application. I'm always passionate about improvement and always in search for a new challenge that will take my career to the next level, with a competitive company and a focused career-growth environment.  ",
+    "bio": "My name is Kervin Rey H. Balibagoso,  I started my career in software development last January of 2017. Within that time I have gained domain knowledge as a FullStack Software Developer. After spending a lot of time in the Agile environment, I have a strong understanding of the Software Development and Testing Lifecycle and have become proficient with testing frameworks, automation tools and agile practices. Currently, I am working as Lead Backend Developer within my team. My main responsibilities are to mentor, develop and build API that is running on cloud server. For that purpose I am deploying project thru Microservice Architechture, utlizing Docker technology. I also built software following Software Development Lifecycle. im also being familiar with Test-Driven Development approach and CI/CD concept for deploying software. In specific, I'm proficient in using Java Spring Boot framework and React.js Library on developing Web Application. I'm always passionate about improvement and always in search for a new challenge that will take my career to the next level, with a competitive company and a focused career-growth environment.  ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "kervinbalibagoso@gmail.com",
     "phone": "+63 910 896 0916",
@@ -43,7 +43,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Utilize Technology",
+    "skillmessage": "Utilized Technology",
     "education": [
       {
         "school": "Holy Trinity College of General Santos City",
@@ -91,7 +91,7 @@
     "testimonials": [
     
       {
-        "text": "I am always passionate about improvement. Coding has been my expression of creativity, for me efficient and well-written code is a masterpiece.",
+        "text": "I am always passionate about improvement. Coding has been my expression of creativity. For me, efficient and well-written code is a masterpiece.",
         "id" : "1"
       },
       {
@@ -99,7 +99,7 @@
         "id" : "2"
       },
       {
-        "text": "Seeking advice doesnt reveal incompetence. It reflects respect for another person's insight. Requesting feedback doesn't signal insecurity. It demonstrates that you care more about your learning than your ego. Asking for help doesn't display weakness. It builds strenght. -Adam Grant",
+        "text": "Seeking advice doesnt reveal incompetence, it reflects respect for another person's insight. Requesting feedback doesn't signal insecurity, it demonstrates that you care more about your learning than your ego. Asking for help doesn't display weakness, it builds strenght. -Adam Grant",
         "id" : "3"
       }
     ]
